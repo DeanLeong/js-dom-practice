@@ -9,6 +9,6 @@
 
 /* Delete one of the elements with a class of 'second' and refresh the page. Do you get a similar result? */
  
-/* Get the span element using getElementsByTagname: */
+/* Get the span element using getElementsByTagName: */
 
 /* Add a span anywhere, and re-run the last piece of code. What's different? */
